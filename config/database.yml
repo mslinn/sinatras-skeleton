@@ -3,10 +3,9 @@
 # please set your database name (and settings)
 
 development:
-  adapter: postgresql
-  encoding: unicode
-  database: sinatras-skeleton
-  pool: 5
+  adapter: sqlite3
+  timeout: 5000
+  database: db/development.sqlite3
 
 production:
   adapter: postgresql
