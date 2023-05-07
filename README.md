@@ -1,10 +1,11 @@
-# Basic Sinatra v3 App with Sprockets, Warden, ActiveRecord and PostgresQL
+# Basic Sinatra v3 App with Sprockets, Warden, ActiveRecord and Postgres
 
 Take this as a working example and as an inspiration. Pull Requests are welcome 🙏
 
 ### Have you tried Roda?
 
-think sinatra is nice? Don't forget to [give Roda a chance](https://github.com/jeremyevans/roda-sequel-stack)!
+think sinatra is nice? Don't forget to [give Roda a chance](https://github.com/jeremyevans/roda-sequel-stack)!  
+browse through my repos 😉😇
 
 ---
 
